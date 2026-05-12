@@ -1,7 +1,0 @@
-{
-  "name": "renovate-reproduction-case-automerge-without-check",
-  "version": "1.0.0",
-  "dependencies": {
-    "prettier": "2.0.0"
-  }
-}
